@@ -1,3 +1,6 @@
-#Merge Sort
+#Sorting Algorithms
+
+* Bubble Sort
+* Merge Sort
 
 
